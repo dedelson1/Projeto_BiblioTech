@@ -37,7 +37,7 @@ O sistema simula operações básicas de uma biblioteca, como controle de livros
 1. Certifique-se de ter o **Python 3** instalado em sua máquina.
 
 2. Clone este repositório:
-git clone https://github.com/dedelson1/bibliotech.git
+git clone https://github.com/andrevmacedo/bibliotech.git
 
 3. No arquivo principal do projeto, ajuste o caminho do banco de dados para um diretório válido em sua máquina:
    caminho = "C:/Users/.../dbExercicio.db"
