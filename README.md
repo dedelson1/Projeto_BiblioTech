@@ -48,6 +48,14 @@ git clone https://github.com/dedelson1/bibliotech.git
 ## 🎯 Objetivo do Projeto
 
 Este projeto foi desenvolvido por um estudante em processo de aprendizagem, com foco em:
+
+---
+
+## 🔄 Evolução do Projeto
+
+- **v1 (primeira versão):** Código inicial com funcionalidades básicas.
+- **main (refatorada):** Código reorganizado, funções melhor estruturadas e melhorias no fluxo de empréstimos.
+
 - Praticar integração entre Python e banco de dados
 - Exercitar lógica de programação e modelagem de dados
 - Simular um sistema real de forma didática
