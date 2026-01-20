@@ -54,7 +54,7 @@ Este projeto foi desenvolvido por um estudante em processo de aprendizagem, com 
 ## 🔄 Evolução do Projeto
 
 - **v1 (primeira versão):** Código inicial com funcionalidades básicas.
-- **main (refatorada):** Código reorganizado, funções melhor estruturadas e melhorias no fluxo de empréstimos.
+- **v2 (refatorada):** Código reorganizado, funções melhor estruturadas e melhorias no fluxo de empréstimos.
 
 - Praticar integração entre Python e banco de dados
 - Exercitar lógica de programação e modelagem de dados
